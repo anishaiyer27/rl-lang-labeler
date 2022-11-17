@@ -1,1 +1,1 @@
-# rl-lang-labeller
+# rl-lang-labeler
